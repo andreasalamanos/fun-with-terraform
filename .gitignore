@@ -34,3 +34,5 @@ override.tf.json
 terraform.rc
 *.xml
 *hcl
+*.pub
+*tf-cloud-init
